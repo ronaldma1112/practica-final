@@ -1,0 +1,59 @@
+/* Estilos Básicos */
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: hwb(0 3% 97%);
+}
+
+header {
+    background: #069b62;
+    color: #050505;
+    padding: 1rem 0;
+    text-align: center;
+}
+header {
+    background: rgb(5, 163, 89);
+    color: #050505;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+}
+
+nav ul li a {
+    background: hwb(0 6% 94%);
+    color: hwb(0 95% 3%);
+    text-decoration: none;
+}
+footer {
+    background: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+<style>
+    
+    th, td {
+        padding: 10px;
+        text-align: left;
+    }
+    a {
+        border: 1px solid hsl(0, 0%, 3%);
+        border-radius: 5px;
+        padding: 5px 10px;
+        text-decoration: none;
+        color: hwb(207 56% 2%);
+    }
+    a:hover {
+        background-color: #007BFF;
+        color: hsl(140, 30%, 96%);
+    }
+</style>
